@@ -299,3 +299,303 @@ job_id,title,company,required_skills,location,salary_range
 297,Junior Cloud Engineer,Flipkart,"Azure, AWS, Terraform, Kubernetes",Pune,₹8-8 LPA
 298,Fresher Cloud Engineer,Wipro,"Terraform, Kubernetes, AWS, Azure",Remote,₹7-9 LPA
 299,Associate Data Analyst,Flipkart,"Tableau, Python, Power BI, Excel",Bangalore,₹5-12 LPA
+300,Senior AI Engineer,Google,"LangChain, Python, Vector DB, RAG, PyTorch",Bangalore,₹24-30 LPA
+301,MLOps Engineer,Amazon,"Kubernetes, MLflow, Docker, AWS SageMaker, Python",Hyderabad,₹18-25 LPA
+302,Cloud Security Engineer,Microsoft,"AWS, Azure, Terraform, DevSecOps, Zero Trust",Pune,₹20-28 LPA
+303,Prompt Engineer,OpenAI,"LangChain, Python, LLMs, API Integration, RAG",Remote,₹22-30 LPA
+304,DataOps Engineer,TCS,"Airflow, Python, SQL, Docker, Data Pipeline",Mumbai,₹15-22 LPA
+305,Blockchain Developer,CoinDCX,"Solidity, Rust, Web3.js, Smart Contracts, Ethereum",Bangalore,₹18-26 LPA
+306,Fresher AI Engineer,Swiggy,"Python, LangChain, PyTorch, Vector DB, API",Gurgaon,₹12-18 LPA
+307,Junior MLOps Engineer,Razorpay,"Docker, Kubernetes, MLflow, Python, AWS",Pune,₹14-20 LPA
+308,Associate Cloud Security Eng,CRED,"Terraform, AWS, IAM, Python, DevSecOps",Bangalore,₹16-22 LPA
+309,Senior Full Stack (AI),Zerodha,"React, Node.js, Python, LangChain, PostgreSQL",Mumbai,₹20-28 LPA
+310,Fresher Data Engineer,Flipkart,"Python, SQL, Spark, Airflow, AWS",Bangalore,₹10-15 LPA
+311,Junior DevSecOps Engineer,Infosys,"Jenkins, Docker, Kubernetes, SAST, AWS",Hyderabad,₹12-18 LPA
+312,Associate Prompt Engineer,Google,"Python, LangChain, RAG, LLM APIs, FastAPI",Bangalore,₹16-24 LPA
+313,Frontend Engineer (Next.js),Meesho,"React, Next.js, TypeScript, Tailwind, GraphQL",Bangalore,₹14-20 LPA
+314,Backend Engineer (Go),Nykaa,"Golang, MongoDB, Redis, Microservices, AWS",Mumbai,₹15-22 LPA
+315,AI/ML Fresher,TCS,"Python, Scikit-learn, Pandas, SQL, Statistics",Chennai,₹8-12 LPA
+316,Cloud Architect,Google,"AWS, Azure, GCP, Kubernetes, Terraform",Bangalore,₹28-35 LPA
+317,Senior Data Scientist,Amazon,"Python, ML, A/B Testing, PyTorch, SQL",Hyderabad,₹24-32 LPA
+318,Fresher Full Stack (MERN),Wipro,"MongoDB, Express, React, Node.js, JavaScript",Pune,₹7-11 LPA
+319,Junior AI Researcher,Microsoft,"PyTorch, Transformer, Python, NLP, Deep Learning",Remote,₹18-25 LPA
+320,DevOps Engineer (GitOps),Accenture,"ArgoCD, Kubernetes, Helm, AWS, Git",Noida,₹15-21 LPA
+321,Data Analyst (Product),ShareChat,"SQL, Python, Tableau, Product Analytics, Excel",Bangalore,₹12-18 LPA
+322,Fresher Cloud Engineer,Zomato,"Docker, AWS, Linux, Terraform, Python",Gurgaon,₹8-13 LPA
+323,Senior React Native Dev,CRED,"React Native, TypeScript, Redux, iOS, Android",Bangalore,₹22-30 LPA
+324,ML Engineer (Computer Vision),Tata 1mg,"PyTorch, OpenCV, Python, Docker, AWS",Delhi,₹18-25 LPA
+325,Junior Full Stack (Python),Google,"Django, React, PostgreSQL, Docker, AWS",Pune,₹12-18 LPA
+326,Associate Data Engineer,Amazon,"Spark, Scala, AWS Glue, Redshift, Python",Chennai,₹14-20 LPA
+327,Blockchain Fresher,Polygon,"Solidity, Hardhat, Web3, JavaScript, Python",Remote,₹10-15 LPA
+328,QA Automation Engineer,Swiggy,"Selenium, Python, Pytest, REST API, Docker",Gurgaon,₹10-16 LPA
+329,Senior Backend (Java),Flipkart,"Java, Spring Boot, Microservices, Kafka, AWS",Bangalore,₹22-30 LPA
+330,Fresher AI/ML,Infosys,"Python, TensorFlow, Pandas, SQL, Stats",Mumbai,₹7-11 LPA
+331,Junior Cloud Native Dev,Microsoft,"Azure, AKS, .NET Core, Docker, Git",Hyderabad,₹14-20 LPA
+332,Associate Cybersecurity,TCS,"Network Security, Python, Linux, Firewalls, SIEM",Pune,₹10-16 LPA
+333,Prompt Engineer (Fresher),Zoho,"Python, LLM APIs, LangChain, FastAPI, JSON",Chennai,₹9-14 LPA
+334,SRE (Site Reliability Eng),Google,"Kubernetes, Prometheus, Grafana, AWS, Linux",Bangalore,₹25-32 LPA
+335,Fresher Data Scientist,CRED,"Python, Pandas, SQL, Scikit-learn, Stats",Bangalore,₹10-15 LPA
+336,Junior Product Analyst,Razorpay,"SQL, Python, Data Visualization, Product Metrics",Pune,₹12-17 LPA
+337,Backend Engineer (Python),Meesho,"Python, Django, PostgreSQL, Redis, AWS",Bangalore,₹15-22 LPA
+338,Frontend Engineer (Vue),Nykaa,"Vue.js, JavaScript, CSS3, HTML5, Webpack",Mumbai,₹14-20 LPA
+339,MLOps Engineer (Fresher),Wipro,"Docker, Kubernetes, Python, CI/CD, AWS",Hyderabad,₹8-13 LPA
+340,Senior Data Engineer,Amazon,"Spark, Kafka, AWS, Java, Data Pipeline",Bangalore,₹26-34 LPA
+341,Cloud Security Analyst,Accenture,"AWS, IAM, Python, Terraform, Compliance",Noida,₹14-20 LPA
+342,Junior AI/ML Engineer,Zomato,"Python, Scikit-learn, Flask, SQL, Docker",Gurgaon,₹10-16 LPA
+343,Full Stack Developer (MERN),Flipkart,"React, Node.js, MongoDB, AWS, TypeScript",Bangalore,₹18-25 LPA
+344,Fresher DevSecOps,Infosys,"Jenkins, Docker, SAST, AWS, Linux",Chennai,₹7-11 LPA
+345,Data Analytics Manager,Google,"SQL, Python, Tableau, Leadership, Business Intel",Mumbai,₹30-40 LPA
+346,Junior Cloud Engineer,Microsoft,"Azure, Terraform, Docker, Kubernetes, Python",Pune,₹12-18 LPA
+347,Associate ML Engineer,TCS,"TensorFlow, PyTorch, Python, SQL, Docker",Hyderabad,₹10-16 LPA
+348,Technical Product Manager,Swiggy,"Technical, Data Analytics, SQL, Roadmap, Agile",Bangalore,₹25-35 LPA
+349,Senior Frontend (React),CRED,"React, TypeScript, Next.js, Tailwind, GraphQL",Bangalore,₹24-32 LPA
+350,Fresher Data Analyst,Amazon,"SQL, Excel, Python, Tableau, Power BI",Mumbai,₹8-12 LPA
+351,Junior Java Developer,Google,"Java, Spring Boot, Microservices, Kafka, SQL",Pune,₹14-20 LPA
+352,Associate DBRE (DB Reliabilty),Zerodha,"PostgreSQL, MySQL, Python, Linux, Replication",Mumbai,₹18-25 LPA
+353,Network Engineer,F5 Networks,"Cisco, Routing, Switching, Firewalls, Python",Bangalore,₹12-18 LPA
+354,Fresher UI/UX Designer,Flipkart,"Figma, Adobe XD, Prototyping, UI, UX Research",Bangalore,₹8-12 LPA
+355,Senior Kotlin Developer,CRED,"Kotlin, Android SDK, MVVM, Jetpack, Clean Arch",Bangalore,₹22-30 LPA
+356,Data Scientist (NLP),ShareChat,"Python, HuggingFace, PyTorch, LLMs, NLP",Bangalore,₹20-28 LPA
+357,Junior DevOps,Accenture,"Linux, Docker, Jenkins, AWS, Ansible",Hyderabad,₹10-15 LPA
+358,Associate Frontend,TCS,"React, HTML5, CSS3, JavaScript, TypeScript",Pune,₹8-13 LPA
+359,ML Engineer (Fresher),Microsoft,"Python, TensorFlow, PyTorch, Scikit-learn, SQL",Remote,₹10-16 LPA
+360,Senior Cloud Infra Eng,Google,"Terraform, AWS, Python, Kubernetes, Networking",Bangalore,₹28-36 LPA
+361,Product Data Analyst,Zomato,"SQL, Python, Tableau, Product Analytics, A/B testing",Gurgaon,₹14-20 LPA
+362,Full Stack (Django+React),Meesho,"Django, React, PostgreSQL, AWS, Celery",Bangalore,₹16-23 LPA
+363,Fresher Security Engineer,Google,"Python, Linux, Networking, Cryptography, AWS",Bangalore,₹12-18 LPA
+364,Senior iOS Developer,Swiggy,"Swift, UIKit, Combine, iOS App, REST API",Gurgaon,₹20-28 LPA
+365,Junior AI Engineer (RAG),Amazon,"LangChain, Python, Vector DB, LLMs, FastAPI",Hyderabad,₹14-20 LPA
+366,Associate Data Scientist,Flipkart,"Python, ML, Pandas, SQL, Scikit-learn",Bangalore,₹12-18 LPA
+367,DevOps Engineer (Azure),Microsoft,"Azure, AKS, Terraform, Jenkins, PowerShell",Pune,₹16-24 LPA
+368,Fresher Full Stack (Java),Infosys,"Java, Spring, React, Hibernate, SQL",Mumbai,₹7-11 LPA
+369,Senior SRE,Google,"Kubernetes, Prometheus, Go, AWS, Automation",Bangalore,₹30-40 LPA
+370,Junior Android Developer,CRED,"Kotlin, Android, Jetpack, REST API, Git",Bangalore,₹12-18 LPA
+371,Data Engineering Manager,Amazon,"Spark, Kafka, AWS, Team Lead, Architecture",Hyderabad,₹32-42 LPA
+372,Fresher QA Engineer,TCS,"Manual Testing, Automation, Selenium, Java, SQL",Chennai,₹6-9 LPA
+373,Senior Ruby on Rails,Zerodha,"Ruby, Rails, PostgreSQL, Redis, AWS",Mumbai,₹20-28 LPA
+374,AI Product Manager,Google,"AI/ML, Product Management, Data Analytics, SQL",Bangalore,₹35-45 LPA
+375,Junior Backend (Node.js),Zomato,"Node.js, Express, MongoDB, Redis, AWS",Gurgaon,₹10-16 LPA
+376,Associate Cloud Engineer,Accenture,"AWS, Docker, Kubernetes, Linux, Terraform",Noida,₹12-18 LPA
+377,Computer Vision Engineer,Tata 1mg,"PyTorch, OpenCV, Python, TensorRT, AWS",Delhi,₹18-25 LPA
+378,Fresher Golang Developer,Razorpay,"Golang, REST API, PostgreSQL, Docker, Git",Pune,₹8-13 LPA
+379,Senior Data Platform Eng,Flipkart,"Spark, Kafka, Flink, Java, Kubernetes",Bangalore,₹28-38 LPA
+380,Junior Full Stack (PHP),Nykaa,"PHP, Laravel, Vue.js, MySQL, Redis",Mumbai,₹10-15 LPA
+381,ML Engineer (Fresher),Google,"TensorFlow, PyTorch, Python, Scikit-learn, SQL",Bangalore,₹12-18 LPA
+382,Cloud Architect,Amazon,"AWS, GCP, Terraform, Kubernetes, Microservices",Hyderabad,₹30-40 LPA
+383,Associate Backend (Python),Microsoft,"Python, Django, PostgreSQL, Docker, Azure",Pune,₹14-20 LPA
+384,Fresher Data Engineer,TCS,"Python, SQL, AWS, Data Pipelines, Airflow",Mumbai,₹8-12 LPA
+385,Senior React Engineer,Swiggy,"React, TypeScript, Next.js, Redux, GraphQL",Gurgaon,₹22-30 LPA
+386,DevOps Manager,Google,"Kubernetes, Terraform, CI/CD, Team Lead, AWS",Bangalore,₹35-45 LPA
+387,Junior Frontend (Angular),Wipro,"Angular, TypeScript, RxJS, HTML5, CSS3",Hyderabad,₹10-15 LPA
+388,NLP Engineer (Fresher),ShareChat,"Python, HuggingFace, PyTorch, NLP, Transformers",Bangalore,₹10-16 LPA
+389,Senior Database Engineer,Amazon,"PostgreSQL, MySQL, AWS RDS, Python, Performance",Pune,₹22-30 LPA
+390,Full Stack (Python+React),CRED,"Python, FastAPI, React, PostgreSQL, AWS",Bangalore,₹18-25 LPA
+391,Fresher Cybersecurity,Infosys,"Networking, Linux, Python, Firewalls, Security",Chennai,₹7-11 LPA
+392,Staff Software Engineer,Google,"Java, Distributed Systems, Microservices, Cloud",Bangalore,₹40-50 LPA
+393,Junior Data Analyst (SQL),Flipkart,"SQL, Excel, Power BI, Data Viz, Python",Bangalore,₹10-15 LPA
+394,Associate MLOps Eng,TCS,"Docker, Kubernetes, MLflow, Python, AWS",Hyderabad,₹12-18 LPA
+395,SRE (Fresher),Microsoft,"Linux, Docker, Kubernetes, Python, Azure",Pune,₹10-15 LPA
+396,Senior Product Designer,Zomato,"Figma, UX Research, Design Systems, Prototyping",Gurgaon,₹24-32 LPA
+397,Junior Scala Developer,Amazon,"Scala, Spark, Kafka, AWS, Hadoop",Bangalore,₹14-20 LPA
+398,Cloud Cost Optimization Eng,Google,"AWS, Python, Terraform, FinOps, Analytics",Bangalore,₹20-28 LPA
+399,Backend (Node.js) Fresher,CRED,"Node.js, Express, MongoDB, REST, Git",Bangalore,₹8-13 LPA
+400,Senior Data Analyst,Amazon,"SQL, Python, Tableau, Stats, Business Intel",Hyderabad,₹20-28 LPA
+401,Prompt Engineer (Senior),OpenAI,"LangChain, RAG, LLMs, Python, Fine-tuning",Remote,₹30-40 LPA
+402,Fresher QA (Automation),Accenture,"Selenium, Java, TestNG, Jenkins, SQL",Noida,₹6-10 LPA
+403,Junior React Native Dev,Swiggy,"React Native, JavaScript, Redux, iOS, Android",Gurgaon,₹12-18 LPA
+404,Data Scientist (Product),Google,"Python, ML, A/B Testing, SQL, Product Analytics",Bangalore,₹28-38 LPA
+405,Senior Golang Engineer,Razorpay,"Golang, Microservices, PostgreSQL, Kafka, Docker",Pune,₹24-32 LPA
+406,ML Ops (Fresher),Wipro,"Kubernetes, Docker, Python, MLflow, AWS",Hyderabad,₹8-13 LPA
+407,Java Backend Developer,Flipkart,"Java, Spring Boot, Microservices, Kafka, SQL",Bangalore,₹18-25 LPA
+408,Junior Cloud Security,TCS,"AWS, IAM, Python, Linux, Network Security",Mumbai,₹10-16 LPA
+409,Frontend Lead (React),CRED,"React, TypeScript, Next.js, Redux, Team Lead",Bangalore,₹30-40 LPA
+410,Fresher SQL Developer,Infosys,"SQL, PL/SQL, Data Modeling, Excel, Python",Chennai,₹6-10 LPA
+411,Senior AI Researcher,Microsoft,"PyTorch, Deep Learning, NLP, Python, Research",Remote,₹35-45 LPA
+412,Junior Data Engineer,Amazon,"Python, SQL, Spark, AWS Glue, Docker",Bangalore,₹12-18 LPA
+413,DevOps (Kubernetes Expert),Google,"Kubernetes, Istio, Helm, AWS, Terraform",Bangalore,₹28-38 LPA
+414,Full Stack (MEAN) Fresher,Zomato,"MongoDB, Express, Angular, Node.js, AWS",Gurgaon,₹8-13 LPA
+415,VP of Engineering,Flipkart,"Tech Leadership, Microservices, Cloud, Strategy",Bangalore,₹60-75 LPA
+416,Associate Frontend (Vue),Nykaa,"Vue.js, Vuex, JavaScript, CSS3, Webpack",Mumbai,₹12-18 LPA
+417,Senior Data Scientist,Nykaa,"Python, ML, PyTorch, SQL, Recommendation Sys",Mumbai,₹24-32 LPA
+418,Fresher Kotlin Developer,CRED,"Kotlin, Android, REST API, Git, XML",Bangalore,₹8-13 LPA
+419,Cloud Network Engineer,Google,"AWS, VPC, Routing, Terraform, Python",Bangalore,₹22-30 LPA
+420,Data Visualization Specialist,Tableau,"Tableau, SQL, Python, Data Storytelling, ETL",Pune,₹16-24 LPA
+421,Backend (Django) Senior,Swiggy,"Django, Python, PostgreSQL, Celery, AWS",Gurgaon,₹22-30 LPA
+422,Fresher Data Scientist (NLP),ShareChat,"Python, HuggingFace, PyTorch, NLP, SQL",Bangalore,₹10-16 LPA
+423,ML Engineer (Computer Vision),Zomato,"PyTorch, OpenCV, Python, Docker, TensorRT",Gurgaon,₹18-25 LPA
+424,Site Reliability Eng (Fresher),Microsoft,"Linux, Kubernetes, Prometheus, Python, Azure",Pune,₹10-16 LPA
+425,Senior Android Engineer,Flipkart,"Kotlin, Jetpack, Compose, MVVM, Android SDK",Bangalore,₹24-32 LPA
+426,Data Engineer (Scala),Amazon,"Scala, Spark, AWS EMR, Hive, Airflow",Hyderabad,₹20-28 LPA
+427,Cloud Solution Architect,Accenture,"AWS, Azure, Solution Design, Python, Kubernetes",Noida,₹30-40 LPA
+428,Fresher UI/UX Designer,Google,"Figma, Adobe XD, Design Thinking, Prototyping",Bangalore,₹10-15 LPA
+429,Junior Golang Developer,Razorpay,"Golang, REST API, Docker, PostgreSQL, Git",Pune,₹12-18 LPA
+430,Senior MERN Stack Dev,Meesho,"MongoDB, Express, React, Node.js, TypeScript",Bangalore,₹22-30 LPA
+431,AI/ML Engineer (Fresher),TCS,"Python, TensorFlow, PyTorch, Scikit-learn, SQL",Hyderabad,₹8-13 LPA
+432,Associate Backend (Go),Google,"Golang, Microservices, gRPC, Kubernetes, SQL",Bangalore,₹16-24 LPA
+433,Fresher Salesforce Dev,Infosys,"Apex, Visualforce, SOQL, JavaScript, CRM",Mumbai,₹6-10 LPA
+434,Senior Java Architect,Flipkart,"Java, Microservices, Kafka, Spring, Cloud",Bangalore,₹35-45 LPA
+435,Junior Data Scientist (Analytics),Amazon,"Python, SQL, Pandas, Stats, Tableau",Hyderabad,₹12-18 LPA
+436,DevOps (Azure) Senior,Microsoft,"Azure, AKS, Terraform, Jenkins, PowerShell",Pune,₹24-32 LPA
+437,Full Stack (Python) Fresher,Wipro,"Django, React, PostgreSQL, Docker, Git",Hyderabad,₹8-13 LPA
+438,Senior Frontend (Angular),Zomato,"Angular, TypeScript, RxJS, NGRX, CSS3",Gurgaon,₹20-28 LPA
+439,Product Manager (AI),CRED,"AI/ML, Product, Data Analytics, Strategy, SQL",Bangalore,₹35-45 LPA
+440,Fresher Blockchain Dev,CoinDCX,"Solidity, JavaScript, Web3, Hardhat, Git",Bangalore,₹10-15 LPA
+441,Data Scientist (Fresher),Google,"Python, ML, Pandas, SQL, Stats",Bangalore,₹12-18 LPA
+442,Cloud Support Engineer,Amazon,"AWS, Linux, Networking, Python, SQL",Mumbai,₹14-20 LPA
+443,Senior Backend (Node),Swiggy,"Node.js, Express, MongoDB, Microservices, AWS",Gurgaon,₹22-30 LPA
+444,ML Engineer (Fresher),Microsoft,"PyTorch, TensorFlow, Scikit-learn, Python, SQL",Remote,₹10-16 LPA
+445,Java Full Stack Developer,TCS,"Java, Spring Boot, React, MySQL, Docker",Pune,₹14-20 LPA
+446,Senior Data Analyst,Flipkart,"SQL, Python, Tableau, Product Analytics, A/B",Bangalore,₹22-30 LPA
+447,DevOps Engineer (Fresher),Google,"Docker, Kubernetes, Linux, AWS, Jenkins",Bangalore,₹12-18 LPA
+448,Android Developer (Senior),CRED,"Kotlin, Jetpack Compose, Clean Arch, Git",Bangalore,₹24-32 LPA
+449,Fresher Network Engineer,Cisco,"CCNA, Routing, Switching, Python, Linux",Bangalore,₹7-11 LPA
+450,Senior Data Scientist (NLP),ShareChat,"PyTorch, HuggingFace, LLMs, Python, SQL",Bangalore,₹30-40 LPA
+451,Machine Learning Engineer,Amazon,"PyTorch, TensorFlow, Python, Docker, AWS",Hyderabad,₹18-25 LPA
+452,Associate Frontend (React),Zomato,"React, TypeScript, Redux, CSS3, HTML5",Gurgaon,₹12-18 LPA
+453,Fresher QA (Manual),Infosys,"Manual Testing, Test Cases, SQL, Agile, JIRA",Chennai,₹5-8 LPA
+454,Senior DevOps Engineer,Accenture,"Terraform, Kubernetes, AWS, Python, GitOps",Noida,₹26-34 LPA
+455,Junior Data Engineer,Google,"Python, SQL, Airflow, Spark, AWS",Bangalore,₹14-20 LPA
+456,Cloud Architect (Azure),Microsoft,"Azure, AKS, Terraform, Solution Design, .NET",Pune,₹30-40 LPA
+457,Full Stack (Vue+Node) Fresher,Nykaa,"Vue.js, Node.js, MySQL, Docker, JavaScript",Mumbai,₹8-13 LPA
+458,Senior Product Analyst,Swiggy,"SQL, Python, Tableau, Product Analytics, Stats",Gurgaon,₹20-28 LPA
+459,AI Product Manager,Google,"AI/ML, Product, Data, SQL, Strategy",Bangalore,₹35-45 LPA
+460,Fresher SAP Developer,TCS,"ABAP, SAP Fiori, OData, SQL, Java",Hyderabad,₹6-10 LPA
+461,Senior iOS Engineer,CRED,"Swift, SwiftUI, Combine, iOS, Clean Arch",Bangalore,₹26-34 LPA
+462,Data Scientist (Fresher),Amazon,"Python, ML, Pandas, SQL, Scikit-learn",Mumbai,₹10-16 LPA
+463,Junior Cloud Security,Google,"AWS, IAM, Python, Linux, Terraform",Bangalore,₹14-20 LPA
+464,Backend (Python) Senior,Flipkart,"Python, Django, REST API, SQL, Docker",Bangalore,₹24-32 LPA
+465,Fresher Power BI Developer,Accenture,"Power BI, DAX, SQL, Excel, Data Viz",Noida,₹6-10 LPA
+466,Senior MLOps Engineer,Amazon,"Kubernetes, MLflow, AWS SageMaker, Python, CI/CD",Hyderabad,₹28-38 LPA
+467,Junior Full Stack (PHP),Zomato,"PHP, Laravel, React, MySQL, AWS",Gurgaon,₹10-16 LPA
+468,Systems Engineer,Google,"Linux, Networking, Python, Automation, Troubleshooting",Bangalore,₹18-25 LPA
+469,Fresher Automation Test,Razorpay,"Selenium, Java, TestNG, REST Assured, Git",Pune,₹8-13 LPA
+470,Senior Frontend (React Native),Swiggy,"React Native, TypeScript, Redux, iOS, Android",Gurgaon,₹22-30 LPA
+471,AI/ML Researcher,Microsoft,"PyTorch, Transformers, Python, NLP, Research",Remote,₹30-40 LPA
+472,Data Engineer (Fresher),Wipro,"Python, SQL, Spark, Docker, AWS",Hyderabad,₹8-13 LPA
+473,Senior Cloud Security,Google,"AWS, Azure, DevSecOps, Terraform, Python",Bangalore,₹32-42 LPA
+474,Junior Java Developer,TCS,"Java, Spring, Hibernate, SQL, REST",Pune,₹10-15 LPA
+475,Product Data Scientist,Flipkart,"Python, ML, SQL, Tableau, Product Analytics",Bangalore,₹22-30 LPA
+476,Fresher DevOps Engineer,Microsoft,"Linux, Docker, Kubernetes, Azure, Jenkins",Pune,₹10-16 LPA
+477,Senior Go Developer,Razorpay,"Golang, Microservices, PostgreSQL, Redis, AWS",Pune,₹26-34 LPA
+478,Android Engineer (Fresher),CRED,"Kotlin, Android SDK, Git, REST, XML",Bangalore,₹8-13 LPA
+479,Cloud Architect (GCP),Google,"GCP, Terraform, Kubernetes, Python, Solution",Bangalore,₹35-45 LPA
+480,Senior QA Lead,Accenture,"Automation, Selenium, Java, CI/CD, Team Lead",Noida,₹22-30 LPA
+481,Fresher Data Scientist,Infosys,"Python, Pandas, SQL, Stats, ML",Mumbai,₹7-11 LPA
+482,Senior Node.js Developer,Zomato,"Node.js, Express, MongoDB, Microservices, AWS",Gurgaon,₹24-32 LPA
+483,UI Developer (Fresher),Nykaa,"HTML5, CSS3, JavaScript, Bootstrap, Git",Mumbai,₹6-10 LPA
+484,ML Engineer (NLP) Senior,ShareChat,"PyTorch, HuggingFace, LLMs, Python, Docker",Bangalore,₹28-38 LPA
+485,Cloud Database Admin,Amazon,"AWS RDS, PostgreSQL, MySQL, Python, Linux",Hyderabad,₹18-25 LPA
+486,Senior Java Developer,Google,"Java, Spring Boot, Kafka, Microservices, Cloud",Bangalore,₹30-40 LPA
+487,Fresher React Native Dev,Swiggy,"React Native, JavaScript, Redux, iOS, Android",Gurgaon,₹8-13 LPA
+488,Data Analyst (Fresher),TCS,"SQL, Excel, Power BI, Python, Tableau",Chennai,₹6-10 LPA
+489,Senior Cloud Engineer,Microsoft,"Azure, Terraform, AKS, Python, Networking",Pune,₹28-38 LPA
+490,Junior Full Stack (MERN),Flipkart,"MongoDB, Express, React, Node.js, JavaScript",Bangalore,₹14-20 LPA
+491,DevOps Architect,Google,"Kubernetes, Terraform, CI/CD, AWS, Design",Bangalore,₹35-45 LPA
+492,Fresher C++ Developer,Google,"C++, Data Structures, Algorithms, Linux, Git",Bangalore,₹10-16 LPA
+493,Senior Python Developer,CRED,"Python, FastAPI, Microservices, PostgreSQL, AWS",Bangalore,₹24-32 LPA
+494,Junior MLOps Engineer,TCS,"Docker, Kubernetes, MLflow, Python, AWS",Hyderabad,₹12-18 LPA
+495,Full Stack (Java+React) Fresher,Wipro,"Java, Spring, React, MySQL, Git",Hyderabad,₹8-13 LPA
+496,Product Analytics Manager,Amazon,"SQL, Python, Tableau, Leadership, Product",Bangalore,₹32-42 LPA
+497,Frontend Developer (Svelte),ShareChat,"Svelte, JavaScript, CSS3, HTML5, Git",Bangalore,₹18-25 LPA
+498,Senior QA (Automation),Flipkart,"Selenium, Java, TestNG, CI/CD, Docker",Bangalore,₹20-28 LPA
+499,Fresher Backend (Node),Zomato,"Node.js, Express, MongoDB, REST, Git",Gurgaon,₹8-13 LPA
+500,AI/ML Architect,Google,"PyTorch, TensorFlow, MLflow, AWS, Solution Design",Bangalore,₹40-55 LPA
+501,Junior Data Scientist (Product),Amazon,"Python, SQL, Pandas, A/B Testing, Tableau",Hyderabad,₹14-20 LPA
+502,SRE (Site Reliability) Fresher,Microsoft,"Linux, Kubernetes, Prometheus, Python, Azure",Pune,₹10-16 LPA
+503,Senior Vue.js Developer,Nykaa,"Vue.js, Vuex, TypeScript, CSS3, Webpack",Mumbai,₹22-30 LPA
+504,Fresher Alteryx Developer,Accenture,"Alteryx, SQL, Excel, Data Prep, Tableau",Noida,₹6-10 LPA
+505,Lead Data Engineer,Flipkart,"Spark, Kafka, Java, Airflow, Team Lead",Bangalore,₹35-45 LPA
+506,Junior React Developer,TCS,"React, Redux, JavaScript, CSS3, HTML5",Pune,₹10-16 LPA
+507,Cloud Security Engineer (Fresher),Google,"AWS, Python, Linux, Network Security, IAM",Bangalore,₹14-20 LPA
+508,Senior Backend (Django),Swiggy,"Django, Python, PostgreSQL, Celery, AWS",Gurgaon,₹24-32 LPA
+509,Android Developer (Fresher),CRED,"Kotlin, Android SDK, REST, Git, XML",Bangalore,₹8-13 LPA
+510,Data Scientist (NLP) Fresher,ShareChat,"Python, HuggingFace, PyTorch, NLP, SQL",Bangalore,₹12-18 LPA
+511,DevOps Engineer (GCP),Google,"GCP, Kubernetes, Terraform, Docker, Python",Bangalore,₹26-34 LPA
+512,Full Stack (MEAN) Senior,Amazon,"MongoDB, Express, Angular, Node.js, AWS",Hyderabad,₹24-32 LPA
+513,Fresher Tableau Developer,Infosys,"Tableau, SQL, Excel, Data Viz, Python",Mumbai,₹6-10 LPA
+514,Senior Golang Developer,Razorpay,"Golang, Microservices, gRPC, PostgreSQL, Docker",Pune,₹28-38 LPA
+515,Junior AI Engineer,TCS,"Python, LangChain, Vector DB, PyTorch, REST API",Hyderabad,₹10-16 LPA
+516,Product Analyst (Fresher),Zomato,"SQL, Excel, Python, Tableau, Product Metrics",Gurgaon,₹8-13 LPA
+517,Senior Angular Developer,Flipkart,"Angular, TypeScript, RxJS, NGRX, CSS3",Bangalore,₹22-30 LPA
+518,Cloud Infrastructure Manager,Google,"AWS, Terraform, Kubernetes, Team Lead, Python",Bangalore,₹38-48 LPA
+519,Fresher .NET Developer,Microsoft,"C#, .NET Core, ASP.NET, SQL, Azure",Pune,₹7-12 LPA
+520,Senior MLOps Engineer,Amazon,"Kubernetes, MLflow, AWS SageMaker, Python, CI/CD",Bangalore,₹28-38 LPA
+521,Junior Data Engineer (Spark),Wipro,"Spark, Scala, Python, Hive, AWS",Hyderabad,₹12-18 LPA
+522,React Native Lead,Swiggy,"React Native, TypeScript, Redux, iOS, Android",Gurgaon,₹30-40 LPA
+523,Fresher SAP ABAP,TCS,"ABAP, SAP, OData, SQL, Java",Bangalore,₹6-10 LPA
+524,Senior Frontend (Svelte),ShareChat,"Svelte, TypeScript, Tailwind, JavaScript, Git",Bangalore,₹22-30 LPA
+525,DevOps (Kubernetes) Fresher,Google,"Kubernetes, Docker, Linux, AWS, Jenkins",Bangalore,₹12-18 LPA
+526,Data Scientist (CV) Senior,Tata 1mg,"PyTorch, OpenCV, Python, TensorRT, AWS",Delhi,₹28-38 LPA
+527,Junior Full Stack (Python),CRED,"Python, FastAPI, React, PostgreSQL, Docker",Bangalore,₹14-20 LPA
+528,Cloud Data Architect,Amazon,"AWS, Redshift, Python, Spark, Solution Design",Hyderabad,₹35-45 LPA
+529,Fresher JavaScript Dev,Accenture,"JavaScript, HTML5, CSS3, React, Git",Noida,₹6-10 LPA
+530,Senior Java Developer,Flipkart,"Java, Spring Boot, Kafka, Microservices, SQL",Bangalore,₹30-40 LPA
+531,Product Data Analyst (Fresher),Google,"SQL, Python, Tableau, Product Analytics, Excel",Bangalore,₹10-16 LPA
+532,Junior Cloud Native Dev,Microsoft,"Azure, AKS, Terraform, .NET Core, Docker",Pune,₹14-20 LPA
+533,MLOps Engineer (Fresher),TCS,"Docker, Kubernetes, MLflow, Python, AWS",Hyderabad,₹8-13 LPA
+534,Senior Node.js Architect,Zomato,"Node.js, Microservices, MongoDB, AWS, Design",Gurgaon,₹32-42 LPA
+535,Fresher QA (Automation),Wipro,"Selenium, Java, TestNG, Jenkins, Git",Hyderabad,₹6-10 LPA
+536,Senior Data Analyst (SQL),Amazon,"SQL, Python, Tableau, Stats, Business Intel",Bangalore,₹22-30 LPA
+537,Android Developer (Senior),CRED,"Kotlin, Jetpack Compose, Clean Arch, Git",Bangalore,₹26-34 LPA
+538,Fresher Cybersecurity Analyst,Google,"Python, Linux, Networking, Security, AWS",Bangalore,₹12-18 LPA
+539,Senior Golang Engineer,Flipkart,"Golang, Microservices, Kafka, PostgreSQL, Docker",Bangalore,₹28-38 LPA
+540,Junior React Developer,Swiggy,"React, Redux, JavaScript, CSS3, HTML5",Gurgaon,₹12-18 LPA
+541,Data Scientist (Fresher),Microsoft,"Python, ML, Pandas, SQL, Stats",Remote,₹10-16 LPA
+542,Senior Cloud Architect,Accenture,"AWS, Azure, GCP, Terraform, Kubernetes",Noida,₹35-45 LPA
+543,Fresher MySQL DBA,Infosys,"MySQL, SQL, Linux, Replication, Performance",Mumbai,₹6-10 LPA
+544,Senior AI Engineer (NLP),ShareChat,"PyTorch, HuggingFace, LLMs, Python, Docker",Bangalore,₹30-40 LPA
+545,DevOps Engineer (Fresher),Amazon,"Docker, Kubernetes, AWS, Linux, Jenkins",Hyderabad,₹10-16 LPA
+546,Full Stack (MEVN) Senior,Nykaa,"MongoDB, Express, Vue.js, Node.js, AWS",Mumbai,₹22-30 LPA
+547,Junior Data Scientist,TCS,"Python, Pandas, SQL, Scikit-learn, Stats",Chennai,₹8-13 LPA
+548,Cloud Security (Senior),Google,"AWS, IAM, DevSecOps, Terraform, Python",Bangalore,₹30-40 LPA
+549,Fresher Java Developer,Accenture,"Java, J2EE, Spring, SQL, Git",Noida,₹6-10 LPA
+550,Senior React Developer,Flipkart,"React, Next.js, TypeScript, GraphQL, Tailwind",Bangalore,₹26-34 LPA
+551,Data Engineer (Fresher),Google,"Python, SQL, Airflow, Spark, AWS",Bangalore,₹12-18 LPA
+552,Product Manager (Data),Amazon,"Data Analytics, SQL, Product, Strategy, AWS",Hyderabad,₹35-45 LPA
+553,Junior MLOps Engineer,Microsoft,"Azure ML, Kubernetes, Docker, Python, CI/CD",Pune,₹14-20 LPA
+554,Backend (PHP) Senior,Zomato,"PHP, Laravel, MySQL, Redis, AWS",Gurgaon,₹20-28 LPA
+555,Fresher Web Developer,Wipro,"HTML5, CSS3, JavaScript, React, Git",Hyderabad,₹6-10 LPA
+556,Senior Data Engineer (GCP),Google,"GCP, BigQuery, Dataflow, Python, Spark",Bangalore,₹30-40 LPA
+557,Java Full Stack Senior,TCS,"Java, Spring Boot, React, Microservices, AWS",Pune,₹24-32 LPA
+558,AI/ML Product Manager,CRED,"AI/ML, Product, Data, SQL, Strategy",Bangalore,₹38-48 LPA
+559,Fresher UI/UX Designer,Swiggy,"Figma, Adobe XD, Prototyping, Design Systems",Gurgaon,₹8-12 LPA
+560,Senior iOS Developer,Flipkart,"Swift, SwiftUI, Combine, iOS, Clean Arch",Bangalore,₹28-38 LPA
+561,Cloud Support Engineer (Fresher),Google,"AWS, Linux, Networking, Python, SQL",Bangalore,₹12-18 LPA
+562,Junior Data Analyst (Excel),Accenture,"Excel, SQL, Power BI, Tableau, Python",Noida,₹7-11 LPA
+563,Senior MLOps Architect,Amazon,"Kubernetes, MLflow, AWS SageMaker, Python, CI/CD",Hyderabad,₹38-48 LPA
+564,Fresher Automation Test,Infosys,"Selenium, Java, TestNG, JIRA, Git",Mumbai,₹7-11 LPA
+565,Senior Backend (Python),Google,"Python, Django, PostgreSQL, Redis, AWS",Bangalore,₹30-40 LPA
+566,Full Stack (Angular+Node) Senior,Microsoft,"Angular, Node.js, Azure, SQL, Docker",Pune,₹26-34 LPA
+567,Junior Data Engineer,TCS,"Python, SQL, AWS Glue, Spark, Airflow",Hyderabad,₹10-16 LPA
+568,Product Analyst (SQL) Fresher,Flipkart,"SQL, Excel, Python, Tableau, Product",Bangalore,₹8-13 LPA
+569,Senior Frontend (React Native),Swiggy,"React Native, TypeScript, Redux, iOS, Android",Gurgaon,₹24-32 LPA
+570,Fresher Cloud Engineer,Google,"Docker, Kubernetes, AWS, Linux, Terraform",Bangalore,₹10-16 LPA
+571,Data Scientist (Fresher),Zomato,"Python, ML, Pandas, SQL, Stats",Gurgaon,₹8-13 LPA
+572,Senior DevSecOps Engineer,Amazon,"AWS, DevSecOps, Terraform, Python, Kubernetes",Hyderabad,₹28-38 LPA
+573,Junior Frontend (HTML/CSS),TCS,"HTML5, CSS3, JavaScript, Bootstrap, Git",Pune,₹6-10 LPA
+574,AI/ML Engineer (Senior),Google,"PyTorch, TensorFlow, Python, Docker, AWS",Bangalore,₹35-45 LPA
+575,Fresher Full Stack (MEAN),Accenture,"MongoDB, Express, Angular, Node.js, Git",Noida,₹7-12 LPA
+576,Senior Android Engineer,CRED,"Kotlin, Jetpack Compose, Clean Arch, Git",Bangalore,₹28-38 LPA
+577,Data Engineer (Kafka) Senior,Flipkart,"Kafka, Spark, Java, AWS, Data Pipelines",Bangalore,₹30-40 LPA
+578,Junior DevOps (Azure),Microsoft,"Azure, AKS, Terraform, Jenkins, PowerShell",Pune,₹14-20 LPA
+579,Full Stack (Python+React) Fresher,Wipro,"Django, React, PostgreSQL, Docker, Git",Hyderabad,₹8-13 LPA
+580,Product Manager (Data) Senior,Amazon,"Data Analytics, SQL, Product, Strategy, AWS",Bangalore,₹38-48 LPA
+581,Senior Frontend (Vue),Nykaa,"Vue.js, Vuex, TypeScript, CSS3, Webpack",Mumbai,₹24-32 LPA
+582,Fresher QA Lead,Accenture,"Manual, Automation, Selenium, Java, Team Lead",Noida,₹10-16 LPA
+583,Cloud Architect (AWS),Google,"AWS, Terraform, Kubernetes, Python, Design",Bangalore,₹40-50 LPA
+584,Junior Backend (Node),Zomato,"Node.js, Express, MongoDB, REST, Git",Gurgaon,₹10-16 LPA
+585,Data Scientist (Senior),TCS,"Python, ML, SQL, PyTorch, Stats",Hyderabad,₹24-32 LPA
+586,Senior SRE (GCP),Google,"GCP, Kubernetes, Prometheus, Python, Automation",Bangalore,₹32-42 LPA
+587,Fresher JavaScript Developer,Flipkart,"JavaScript, React, HTML5, CSS3, Git",Bangalore,₹8-13 LPA
+588,Senior MLOps Engineer,Microsoft,"Azure ML, Kubernetes, MLflow, Python, CI/CD",Pune,₹30-40 LPA
+589,Full Stack (LAMP) Senior,Zomato,"PHP, Laravel, MySQL, React, AWS",Gurgaon,₹24-32 LPA
+590,Fresher Data Analyst (Excel),Google,"Excel, SQL, Tableau, Power BI, Python",Bangalore,₹8-13 LPA
+591,Senior Java Developer (Cloud),Amazon,"Java, Spring Boot, Microservices, AWS, Kafka",Hyderabad,₹32-42 LPA
+592,Junior React Native Dev,Swiggy,"React Native, JavaScript, Redux, iOS, Android",Gurgaon,₹12-18 LPA
+593,AI/ML Architect (Fresher),CRED,"Python, PyTorch, TensorFlow, SQL, Docker",Bangalore,₹14-20 LPA
+594,Senior Data Scientist (Product),Flipkart,"Python, ML, SQL, Product Analytics, A/B",Bangalore,₹30-40 LPA
+595,Fresher Cloud Security,Accenture,"AWS, Python, Linux, Networking, Security",Noida,₹8-13 LPA
+596,Senior Golang Architect,Razorpay,"Golang, Microservices, Kubernetes, PostgreSQL, Design",Pune,₹35-45 LPA
+597,Junior Data Engineer (SQL),TCS,"SQL, Python, Excel, Power BI, Tableau",Chennai,₹8-13 LPA
+598,Senior Frontend (Angular),Google,"Angular, TypeScript, RxJS, NGRX, CSS3",Bangalore,₹30-40 LPA
+599,DevOps Manager (Kubernetes),Amazon,"Kubernetes, Terraform, CI/CD, Team Lead, AWS",Hyderabad,₹40-50 LPA
