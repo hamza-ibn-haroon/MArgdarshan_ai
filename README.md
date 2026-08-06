@@ -104,7 +104,7 @@ User Input → Processing Engine → Recommendation Model → Output UI
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/margdarshan-ai.git
+git clone https://github.com/nimish-codes-exe/margdarshan-ai.git
 cd margdarshan-ai
 ```
 
